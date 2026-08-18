@@ -2266,7 +2266,7 @@
 	"cover_offline": "cover/1782184326984-ea8996e8-02b8-456e-95a7-3217614e3713.webp",
     "thumbnail": "thumbnail/1782184326984-ea8996e8-02b8-456e-95a7-3217614e3713.webp",
     "music_category": "Nature",
-    "playlist": "null,
+    "playlist": null,
 	"playlist_offline": "music/river1.opus",
     "has_start": false,
     "is_premium": false,
